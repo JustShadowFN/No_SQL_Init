@@ -7,4 +7,4 @@ Structure :
 - `application/frontend/` : partie front
 - `application/api/` : partie API
 - `.gitignore` : ignore le README
-- `repartition_de_tache.txt` : répartition des tâches
+- `repartition_de_tache.txt` : répartition des tâches.
